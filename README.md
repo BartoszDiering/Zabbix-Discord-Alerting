@@ -64,7 +64,8 @@ Tak prezentują się alerty dostarczane bezpośrednio na kanał zespołu:
 <details>
   <summary>📸 Pokaż zrzut ekranu</summary>
   
-<img width="1697" height="672" alt="image" src="https://github.com/user-attachments/assets/f6594202-1458-4c2c-a176-b7d07d7ec328" />
+<img width="872" height="462" alt="image" src="https://github.com/user-attachments/assets/af44b7a4-f463-4ad2-bd1e-c2ce3627e1a0" />
+
 
 </details>
 
