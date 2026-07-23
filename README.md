@@ -16,8 +16,8 @@ Monitorowany Host ➡️ Zabbix Server ➡️ Zabbix Webhook ➡️ Discord Chan
 ## ✅ Rezultat (Efekt końcowy)
 Tak prezentują się alerty dostarczane bezpośrednio na kanał zespołu:
 
-![<img width="1527" height="937" alt="image" src="https://github.com/user-attachments/assets/ed7bd6bc-0900-4eaf-b3dc-734007e13ae8" />
-]()
+<img width="1527" height="937" alt="image" src="https://github.com/user-attachments/assets/ed7bd6bc-0900-4eaf-b3dc-734007e13ae8" />
+
 
 ---
 
@@ -31,8 +31,8 @@ Tak prezentują się alerty dostarczane bezpośrednio na kanał zespołu:
 <details>
   <summary>📸 Pokaż zrzut ekranu</summary>
   
-  ![<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/5a520f14-4bea-41a1-b03f-519bfedba4f9" />
-]()
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/5a520f14-4bea-41a1-b03f-519bfedba4f9" />
+
 </details>
 
 ### Krok 2: Aktywacja Media Types w Zabbix
@@ -42,8 +42,8 @@ Tak prezentują się alerty dostarczane bezpośrednio na kanał zespołu:
 <details>
   <summary>📸 Pokaż zrzut ekranu</summary>
   
-  ![<img width="1265" height="781" alt="image" src="https://github.com/user-attachments/assets/9be8fba2-c2ae-4551-9aae-8241f6bc8532" />
-]()
+<img width="1265" height="781" alt="image" src="https://github.com/user-attachments/assets/9be8fba2-c2ae-4551-9aae-8241f6bc8532" />
+
 </details>
 
 ### Krok 3: Powiązanie Webhooka z użytkownikiem
@@ -53,8 +53,8 @@ Tak prezentują się alerty dostarczane bezpośrednio na kanał zespołu:
 <details>
   <summary>📸 Pokaż zrzut ekranu</summary>
   
-  ![<img width="611" height="732" alt="image" src="https://github.com/user-attachments/assets/d390273c-fef9-4d59-9d28-84961d805b9c" />
-]()
+<img width="611" height="732" alt="image" src="https://github.com/user-attachments/assets/d390273c-fef9-4d59-9d28-84961d805b9c" />
+
 </details>
 
 ### Krok 4: Włączenie akcji reagowania na awarie (Actions)
@@ -64,8 +64,8 @@ Tak prezentują się alerty dostarczane bezpośrednio na kanał zespołu:
 <details>
   <summary>📸 Pokaż zrzut ekranu</summary>
   
-  ![<img width="1697" height="672" alt="image" src="https://github.com/user-attachments/assets/f6594202-1458-4c2c-a176-b7d07d7ec328" />
-]()
+<img width="1697" height="672" alt="image" src="https://github.com/user-attachments/assets/f6594202-1458-4c2c-a176-b7d07d7ec328" />
+
 </details>
 
 ---
